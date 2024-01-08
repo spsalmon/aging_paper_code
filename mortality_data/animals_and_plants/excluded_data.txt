@@ -1,0 +1,12 @@
+Accipiter nisus : Excluded because Nx is increasing
+Agave marmorata : Excluded because lx[0] < 1
+Fulmarus glacialoides : Excluded because the ratio of zero qx time points is > 0.2
+Haliotis rufescens : Excluded because less than 3 time points
+Macrotrachela quadricornifera : Excluded because the ratio of zero qx time points is > 0.2
+Pagurus longicarpus : Excluded because less than 3 time points
+Pan troglodytes : Excluded because Nx is increasing
+Papio cynocephalus : Excluded because no way of calculating lx (can't cut data when only 5% of population is left)
+Poecillia reticulata : Excluded because the ratio of zero qx time points is > 0.2
+Quercus rugosa : Excluded because lx[0] < 1
+Rana aurora : Excluded because less than 3 time points
+Ulex minor : Excluded because less than 3 time points
