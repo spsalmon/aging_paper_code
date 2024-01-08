@@ -1,0 +1,18 @@
+[package]
+name = "fitness_landscape"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.5"
+
+peroxide = "0.34.0"
+rayon = "1.7.0"
+ndarray = "0.11.2"
+optimize = "*"
+roots = "*"
+csv = "1.2.2"
+ndarray-csv = "0.5"
+indicatif = "0.17.7"
